@@ -21,3 +21,5 @@ ODBC este folosit pentru a accesa și manipula datele stocate într-o bază de d
 
 5. Microsoft SQL Server (Baza de date)
 Microsoft SQL Server este un sistem de gestionare a bazelor de date relaționale (RDBMS) dezvoltat de Microsoft, care stochează și administrează date într-o manieră organizată, folosind tabele, relații și SQL (Structured Query Language).
+
+![Baza_de_Date](https://github.com/ajmaria/AgendaTelefonica/blob/main/image.png)
